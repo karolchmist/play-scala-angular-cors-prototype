@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SBT: org.fluentlenium:fluentlenium-festassert:0.7.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/tools/play-2.1.1/repository/local/org.fluentlenium/fluentlenium-festassert/0.7.3/jars/fluentlenium-festassert.jar!/">
+      </root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>

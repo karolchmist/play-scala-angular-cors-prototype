@@ -1,0 +1,10 @@
+*.log
+
+.idea/workspace.xml
+
+client/node_modules/
+client/.tmp
+
+server/target/
+server/project/target/
+server/project/project/target
