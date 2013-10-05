@@ -25,6 +25,6 @@ To start client :
 
 To start server :
 * go to ./server folder
-* run "play run 19000" (19000 being the port at which the application listens to the requests).
+* run <play "run 19000"> (19000 being the port at which the application listens to the requests).
 
 A browser should be opened at the address http://localhost:20000. Pressing the getData button triggers a request to the back end, response should be shown below.
